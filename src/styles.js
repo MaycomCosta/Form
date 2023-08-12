@@ -12,6 +12,7 @@ export const Content = styled.div`
   justify-content: center;
   box-shadow: 0 1px 2px;
   padding: 30px;
+  background-color: #02192b;
 `
 
 export const Row = styled.div`
